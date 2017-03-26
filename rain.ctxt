@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=rain(objectdraw.DrawingCanvas)
+comment1.params=c\ h
+comment1.target=rain(objectdraw.DrawingCanvas,\ int)
+comment2.params=c
+comment2.target=void\ createBucket(objectdraw.DrawingCanvas)
+comment3.params=x\ y
+comment3.target=void\ moveBucket(double,\ double)
+comment4.params=
+comment4.target=void\ generate()
+comment5.params=
+comment5.target=void\ overlap()
+comment6.params=
+comment6.target=void\ run()
+comment7.params=Over\ Up
+comment7.target=void\ move(int,\ int)
+numComments=8
